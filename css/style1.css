@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.img {
+  margin-top: 100px;
+  height: 200px;
+  width: 100%;
+}
+#theImg {
+  margin-top: 100px;
+  width: 100%;
+  height: 500px;
+}
+.mrg {
+  margin-top: 100px;
+}
+#hide {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
